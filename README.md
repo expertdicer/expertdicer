@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @expertdicer
 - 👀 I’m interested in blockchain, cryptography and distributed systems. 
-- 🌱 I’m currently learning Go and Cosmos.
+- 🌱 I’m currently diving into Cosmos stacks.
 - 💞️ I’m looking to collaborate on Cosmos proj.
 - 📫 How to reach me [facebook link](https://www.facebook.com/banguyen.ho/)
 
